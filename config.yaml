@@ -1,0 +1,8 @@
+profiles:
+    # rsingh@builder-magic.com
+    default:
+      api_token: XXXX
+    #rsingh+admin@builder-magic.com
+    as-admin:
+      api_token: XXXX
+#      ws_endpoint: wss://staging.agent-socket.ai
